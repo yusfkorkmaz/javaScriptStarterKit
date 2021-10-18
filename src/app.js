@@ -32,3 +32,4 @@ console.log("</ul>")
 
 console.log(konutKredileri)
 
+//komutsatırım
